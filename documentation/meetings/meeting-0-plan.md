@@ -1,13 +1,12 @@
-# Inital planning meeting
+# Initial planning meeting
 
-## To be done by end of meeting
-
-### Admin
+## Admin
 - [ ] introductions
+- [ ] how did library project go?
 - [ ] agree on future meetings
 	- start + end of sprint?
 	- time / location
-- [ ] dicuss workflow 
+- [ ] discuss workflow 
 	- PRs
 	- Reviews
 	- github actions 
@@ -15,14 +14,14 @@
 	- tests 
 
 
-### Planning
+## Planning
 
-- [ ] first week of planning?
-- [ ] sprint 1 start by? 
+- first week for planning?
+- sprint 1 start by? 
 
-#### Ideation (broad)
+### Ideation (broad)
 
-- [ ] project plan (detailed)
+- [ ] project plan 
 - [ ] 4 personas
 - [ ] 16 user stories 
 - [ ] acceptance criteria (for 4)
@@ -34,7 +33,9 @@
 		  - <span style="font-family: 'Playfair','Playfair 12pt Light', 'Comic Sans MS';">Playfair </span> / <span style="font-family: 'Playfair Display', 'Comic Sans MS';">Playfair Display</span> / <span style="font-family: 'Roboto Slab', 'Comic Sans MS';">Roboto Slab</span> / <span style="font-family: 'Roboto Serif','Roboto Serif 14pt', 'Comic Sans MS'">Roboto Serif</span>
 		  - https://fonts.google.com/
 
-#### Tech Structure
+### Tech Structure
+
+- tech structures from library project?
 
 - [ ] amper vs gradle
 - [ ] what db to use (H2/sqlite)
@@ -42,7 +43,7 @@
 - [ ] css framework (bootstrap/tailwind/pico.css)
 - [ ] html generation (pebble/dsl)
 
-### Sprint 1
+## Sprint 1
 
 - [ ] plan now or next meeting?
 
