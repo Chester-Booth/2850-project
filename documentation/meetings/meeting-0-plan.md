@@ -6,14 +6,16 @@
 - [ ] agree on future meetings
 	- start + end of sprint?
 	- time / location
+- stakeholder meetings 
+	- prep meetings for them
+	- every ?
 - [ ] discuss workflow 
 	- PRs
 	- Reviews
 	- github actions 
 	- kanban board for progress
 	- tests 
-
-
+- [ ] understand overall project timeline  
 ## Planning
 
 - first week for planning?
@@ -36,12 +38,15 @@
 ### Tech Structure
 
 - tech structures from library project?
+- confidence on these aspects? 
 
+- [ ] ktor 
 - [ ] amper vs gradle
 - [ ] what db to use (H2/sqlite)
 - [ ] multi module/single
 - [ ] css framework (bootstrap/tailwind/pico.css)
 - [ ] html generation (pebble/dsl)
+- [ ] other tech decisions ? 
 
 ## Sprint 1
 
