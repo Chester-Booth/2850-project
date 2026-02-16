@@ -1,45 +1,35 @@
-**ACTION MINUTES TEMPLATE**
+# ACTION MINUTES TEMPLATE
 
 Action minutes record the steps toward achieving the NORC program’s strategic goals. Here is a template for keeping minutes in a manner that tracks what is getting done, not what is being said.  
 
-Note: Please see Effective Meeting Management Tool for more discussion on the value and usefulness of minutes recorded in this manner and for a complete 10 step overview of conducting effective meetings.
+| GROUP    |       |
+| :------- | :---- |
+| DATE     |       |
+| LOCATION |       |
 
-| GROUP |       |
-| :---- | :---- |
-| **DATE** | **     **                                                                                                                                                               |
-| **LOCATION** | **     ** |
+| Meeting Purpose |       |
+| :-------------- | :---- |
 
-| MEETING PURPOSE |        |
-| :---- | :---- |
+## 1. ATTENDANCE
 
-**1\. ATTENDANCE**
 
-|       |
-| :---- |
-|       |
-|       |
-|  |
 
-**2\. ISSUES COVERED** 
+## 2. ISSUES COVERED
 
-|       |
-| :---- |
-|       |
-|       |
-|  |
+1. 
 
-**3\. DECISIONS MADE**
+## 3. DECISIONS MADE
 
-| *Issue* | *Decision (What)* |  |  | *Rationale(Why)* |  |
-| ----- | ----- | :---- | :---- | :---: | ----- |
-|       | Decision A |       |       |  |  |
-|       | Decision B |       |       |  |  |
-|       | Decision C |       |       |  |  |
-|       | Decision D |       |       |  |  |
-|       | Decision E |       |       |  |  |
-|       | Decision F |       |       |  |  |
+| *Issue* | *Decision (What)* |       | *Rationale(Why)* |
+| ------- | ----------------- | :---- | :--------------: |
+|         | Decision A        |       |                  |
+|         | Decision B        |       |                  |
+|         | Decision C        |       |                  |
+|         | Decision D        |       |                  |
+|         | Decision E        |       |                  |
+|         | Decision F        |       |                  |
 
-**4\. RESPONSIBILITIES TAKEN**
+## 4. RESPONSIBILITIES TAKEN
 
 | *Decision* | *Responsible Party* | *Actions to be Taken* | *Reporting Timeframe* |
 | ----- | ----- | ----- | ----- |
@@ -48,29 +38,20 @@ Note: Please see Effective Meeting Management Tool for more discussion on the va
 |       |       |       |       |
 |       |       |       |       |
 
-**5\. UPDATES (FROM PREVIOUS MEETINGS)**
+## 5. UPDATES (FROM PREVIOUS MEETINGS)
 
 | *Issue* | *Responsible Party* | *Progress to Date and Next Steps if any* |
-| ----- | ----- | ----- |
-|       |       |       |
-|       |       |       |
-|       |       |       |
-|       |       |       |
+| ------- | ------------------- | ---------------------------------------- |
+|         |                     |                                          |
+|         |                     |                                          |
+|         |                     |                                          |
+|         |                     |                                          |
 
-**6\. UNRESOLVED ISSUES/DETAILS TO BE ADDRESSED**
+## 6. UNRESOLVED ISSUES/DETAILS TO BE ADDRESSED
 
-|       |
-| :---- |
-|       |
-|       |
-|       |
-|       |
-|  |
+1. 
 
-**7\. DATE OF NEXT MEETING**
+## 7. DATE OF NEXT MEETING
 
-         
-
-|  |
-| :---- |
+>[!NOTE]
 

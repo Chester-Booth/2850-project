@@ -1,15 +1,15 @@
 # Initial planning meeting
 
 ## Admin
-- [ ] introductions
-- [ ] how did library project go?
-- [ ] agree on future meetings
+- [x] introductions
+- [x] how did library project go?
+- [x] agree on future meetings
 	- start + end of sprint?
 	- time / location
 - stakeholder meetings 
 	- prep meetings for them
 	- every ?
-- [ ] discuss workflow
+- [x] discuss workflow
 	- PRs
 	- Reviews
 	- tags / assigning 
@@ -18,8 +18,8 @@
 		- marking criteria
 	- kanban board for progress (and currently in dev)
 	- tests  
-- [ ] understand overall project timeline  
-- [ ] code quality and standards defined (Kdoc, tests and actions)
+- [x] understand overall project timeline  
+- [x] code quality and standards defined (Kdoc, tests and actions)
 
 
 ## Planning
@@ -27,8 +27,8 @@
 8 weeks (including this week)
 
 wc. 16/2 planning
-wc. 23/2 sprint 1 (base proeject)
-wc. 2/3 sprint 2 (core features)
+wc. 23/2 sprint 1 (base project)
+wc. 2/3 sprint 2 (base project)
 wc. 9/3 sprint 3 (additions)
 wc. 16/3 sprint 4 (additions)
 wc. 23/3 sprint 5 (refinement/ documentation) 
@@ -38,13 +38,19 @@ wc. 4/5 presentation prep
 11/5 presentation
 
 ### This Week
+- get sprint 1 ready 
 - some personas
-- some user stories
+- some user stories (acceptance criteria)
+- wireframes 
+- db structure
+- theming 
+- finalise tech details
 
 #### product owner meeting
 go to with q's about the system (email technical q's beforehand)
 - ask how they'd like to communicate (teams/email)
-
+- where flight data from (just their companies flights)
+- use global data (show to users or just to management for rebooking)
 break down of what we're planning 
 ### Every week
 1. meet team for 1 formal meeting
@@ -79,6 +85,12 @@ break down of what we're planning
 - [ ] html generation (pebble/dsl)
 - [ ] other tech decisions ? 
 
+modules:
+- booking system (includes user interaction system)
+- mgmt.  system
+- database
+- logic 
+- init (to initialise the database)
 ## Sprint 1
 
 - [ ] plan now or next meeting?
