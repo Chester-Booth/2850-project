@@ -31,8 +31,8 @@ wc. 23/2 sprint 1 (base proeject)
 wc. 2/3 sprint 2 (core features)
 wc. 9/3 sprint 3 (additions)
 wc. 16/3 sprint 4 (additions)
-wc. 23/3 sprint 5 (refinement/ documentation)
-4 week break
+wc. 23/3 sprint 5 (refinement/ documentation) 
+easter 4 week break (project finished before?) 
 wc. 27/4 (tbd) 
 wc. 4/5 presentation prep
 11/5 presentation
