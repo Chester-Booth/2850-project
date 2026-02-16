@@ -12,14 +12,36 @@
 - [ ] discuss workflow 
 	- PRs
 	- Reviews
-	- github actions 
+	- github actions  ( ktlint detekt) 
+		- marking criteria
 	- kanban board for progress
 	- tests 
 - [ ] understand overall project timeline  
+- [ ] code quality and standards defined (Kdoc, tests and actions)
 ## Planning
 
-- first week for planning?
-- sprint 1 start by? 
+8 weeks (including this week)
+
+wc. 16/2 planning
+wc. 23/2 sprint 1 
+wc. 2/3 sprint 2
+wc. 9/3 sprint 3
+wc. 16/3 sprint 4
+wc. 23/3 sprint 5
+4 week break
+wc. 27/4 (tbd)
+wc. 4/5 presentation prep
+11/5 presentation
+
+### This Week
+- some personas
+- some user stories
+
+#### product owner meeting
+go to with q's about the system (email technical q's beforehand)
+- ask how they'd like to communicate (teams/email)
+
+break down of what we're planning 
 
 ### Ideation (broad)
 
