@@ -9,7 +9,7 @@ on:
 jobs:
   lint:
     name: Linters (ktlint + detekt)
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
@@ -21,7 +21,7 @@ jobs:
 
   test:
     name: Tests
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     needs: lint
     steps:
       - uses: actions/checkout@v4
@@ -38,7 +38,7 @@ jobs:
 
   build:
     name: Build
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     needs: test
     steps:
       - uses: actions/checkout@v4
