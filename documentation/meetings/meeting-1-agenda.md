@@ -142,6 +142,17 @@ acknowledge it includes
     - [ ] icons (Lucide,Fontawesome,Material,Bootstrap)
     - [ ] put theming into style.css and variables.css that holds vars for colours and fonts (who? when by?)
 
+- [ ] style guide
+    - see https://design-system.service.gov.uk/components/
+    - consistent Date format
+    - consistent Inputs (submit/confirm)
+    - consistent icons (filled vs outline) 
+    - consistent spacing
+    - consistent font weighting for similar uses
+    - [ ] how to enforce 
+        - continually apppend style-guide.md
+        - discuss details as they appear (standups/meetings)
+        - double-check for consistency in post easter sprints 
 
 - [ ] wireframing UI (paper)
     - Annotated wireframes, encapsulating key design choices (colours/icons)
@@ -151,6 +162,7 @@ acknowledge it includes
     > Incremental changes to designs have been well-reasoned and have evidence chains.
     > Full and deep justification of all significant design changes made.
     >
+    - Significant changes from base library, accessible first designed and improved based on personas and job stories
     - [ ] someone translates to draw.io file or wiretext.app format 
         (who,when by?)
 
