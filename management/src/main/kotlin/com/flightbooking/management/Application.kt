@@ -1,6 +1,7 @@
 package com.flightbooking.management
 
 import io.ktor.server.application.Application
+import io.ktor.server.netty.EngineMain
 
 /**
  * The entry point for the management module.
@@ -9,7 +10,7 @@ import io.ktor.server.application.Application
  * @return Unit
  */
 fun main(args: Array<String>) {
-    io.ktor.server.netty.EngineMain
+    EngineMain
         .main(args)
 }
 

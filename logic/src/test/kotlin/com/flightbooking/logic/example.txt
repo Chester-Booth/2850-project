@@ -1,0 +1,4 @@
+package com.flightbooking.logic
+
+// test files go here
+// separate test files for each logic class(AccountTest,LoginTest,etc.)
