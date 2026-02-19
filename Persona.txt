@@ -1,0 +1,14 @@
+Persona: As an airline operations manager, I want to modify pricing and add or remove flights at any time so that the company can respond quickly to market demand and maximize revenue.
+
+Job story: When market demand changes, I want to modify ticket prices immediately so that the airline remains competitive and maximizes revenue.
+
+Persona: As an airline operations manager, I want to track all reservations so that I can monitor flight performance.
+
+Job story: When bookings are made, I want to track all reservations so that I can monitor flight performance.
+
+Persona: As an airline operations manager, I want to see seat availability for each flight so that capacity can be optimized.
+
+Job story: When managing flights, I want to see seat availability so that capacity can be optimized. 
+
+Persona: As an airline operations manager, I want to monitor peak booking times so that pricing strategies can be adjusted.
+
