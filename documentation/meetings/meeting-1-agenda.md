@@ -62,7 +62,7 @@ acknowledge it includes
 
 #### Tech Decisions 
 > [!NOTE]
-> Ktor,pebble, gradle (ktlint/detekt),sqlite(using exposed),routing,multi module,github actions
+> Ktor, pebble, gradle (ktlint/detekt), sqlite(using exposed), routing,multi module, github actions
 
 - review previously decided tech decisions
     - [ ] everyone agreed with all of them?
@@ -141,7 +141,7 @@ acknowledge it includes
         - multiple weights available
         - i l 1 look different
 		- https://fonts.google.com/
-    - [ ] icons (Lucide,Fontawesome,Material,Bootstrap)
+    - [ ] icons (Lucide, Fontawesome, Material Design, Bootstrap)
     - [ ] put theming into style.css and variables.css that holds vars for colours and fonts (who? when by?)
 
 - [ ] style guide
