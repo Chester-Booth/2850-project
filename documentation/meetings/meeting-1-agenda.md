@@ -59,11 +59,11 @@ acknowledge it includes
     - [ ] everyone review PR
 
 
-#### Tech Desicions 
+#### Tech Decisions 
 > [!NOTE]
 > Ktor,pebble, gradle (ktlint/detekt),sqlite(using exposed),routing,multi module,github actions
 
-- review previously decided tech desicions
+- review previously decided tech decisions
     - [ ] everyone agreed with all of them?
     - [ ] everyones personal weak points?
     - [ ] decide on css framework (bootstrap, tailwind, pico.css)
