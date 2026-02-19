@@ -10,6 +10,9 @@ wc. 27/4 (tbd)
 wc. 4/5 presentation prep
 11/5 presentation
 
+## Sprint Goals 
+Sprint 1: ""
+
 ## Meetings
 16/2/26 meeting-0
-20/2/26 meeting-1
+20/2/26 meeting-1 

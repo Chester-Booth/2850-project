@@ -27,5 +27,7 @@
     - [ ] who is leader for standups
     - [ ] who does retrospective (and organise + book room)
     - [ ] when is retrospective?
+- [ ] update `timeline.md` with meeting and sprint goal (if applic.)
 - [ ] other responsibilites to assign?
+
 
