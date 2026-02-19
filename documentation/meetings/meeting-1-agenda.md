@@ -124,7 +124,9 @@ acknowledge it includes
     - acceptance criteria
         - [ ] add to user stories (strategy? only for sprint items?)
     - code coverage 
-      - use plugin to ensure x % of code is tested for (only for logic?)
+      - use plugin to ensure x % of code is tested for (easy way to ensure criteria) 
+      - "near perfect test coverage"
+      - (only for logic?)
     - centered on personas/stories
     - [ ] UX testing (how?)  
     - [ ] Security testing (how?)
