@@ -123,6 +123,8 @@ acknowledge it includes
 - [ ] testing strategy
     - acceptance criteria
         - [ ] add to user stories (strategy? only for sprint items?)
+    - code coverage 
+      - use plugin to ensure x % of code is tested for (only for logic?)
     - centered on personas/stories
     - [ ] UX testing (how?)  
     - [ ] Security testing (how?)
@@ -200,4 +202,3 @@ acknowledge it includes
     - [ ] when is retrospective?
 - [ ] update `timeline.md` with meeting and sprint goal (if applic.)
 - [ ] other responsibilites to assign?
-
