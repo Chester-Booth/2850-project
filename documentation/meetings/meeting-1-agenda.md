@@ -62,7 +62,7 @@ acknowledge it includes
 
 #### Tech Decisions 
 > [!NOTE]
-> Ktor, pebble, gradle (ktlint/detekt), sqlite(using exposed), routing,multi module, github actions
+> Ktor, pebble, gradle (ktlint/detekt), sqlite(using exposed), routing, multi module, github actions
 
 - review previously decided tech decisions
     - [ ] everyone agreed with all of them?
