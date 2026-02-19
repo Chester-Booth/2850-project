@@ -6,7 +6,8 @@
 - [ ] who minutes this meeting? they should familiarise themselves with template
 
 - overall this is the big meeting to get aligned on everything so we can start developing
-future meetings should only have to cover changes, not the entire thing as today
+
+- future meetings should only have to cover changes, not the entire thing as today
 
 ## Issues to Cover
 - Updates (Owner Meeting) 
