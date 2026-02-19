@@ -159,13 +159,14 @@ acknowledge it includes
     - Annotated wireframes, encapsulating key design choices (colours/icons)
     - accessible design
     - document changes over time in repo 
+    - Significant changes from base library, accessible first design and improved based on personas and job stories
+    - [ ] someone translates to draw.io file or wiretext.app format 
+        (who,when by?)
 > [!NOTE]
 > Incremental changes to designs have been well-reasoned and have evidence chains.
 > Full and deep justification of all significant design changes made.
 
-    - Significant changes from base library, accessible first designed and improved based on personas and job stories
-    - [ ] someone translates to draw.io file or wiretext.app format 
-        (who,when by?)
+
 
 - [ ] database structure
     - diagram entities, relationships types and names 
