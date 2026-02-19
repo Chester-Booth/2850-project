@@ -60,11 +60,11 @@ acknowledge it includes
 
 
 #### Tech Desicions 
-- review previously decided tech desicions
 > [!NOTE]
 > Ktor,pebble, gradle (ktlint/detekt),sqlite(using exposed),routing,multi module,github actions
 
-    - [ ]everyone agreed with all of them?
+- review previously decided tech desicions
+    - [ ] everyone agreed with all of them?
     - [ ] everyones personal weak points?
     - [ ] decide on css framework (bootstrap, tailwind, pico.css)
 
