@@ -181,10 +181,16 @@ acknowledge it includes
 ### Sprint 1
 - create MVP?  
     - what is MVP? 
-
+		- function booking system
+			- accounts
+			- database
+			- search for flights
+			- input details 
+			- book flight 
 - [ ] decide sprint goal
 
 - [ ] decide sprint end date (week?)
+	- `20/2/26` to `27/2/26`
     - [ ] assign user stories on kanban
         - [ ] give them acceptance criteria
         - [ ] set milestone (one per sprint)
