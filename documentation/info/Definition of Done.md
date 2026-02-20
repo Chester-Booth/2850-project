@@ -56,5 +56,5 @@ A story is considered "done" only when ALL of the following is true:
 ## Signed by:
 Chester Booth
 Ryan Imran
-
+Mingyuan Xing
 
