@@ -26,8 +26,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run tests
-        run: ./gradlew test koverVerify :database:koverVerify :logic:koverVerify :init:koverVerify :booking:koverVerify :management:koverVerify
+      - name: Run tests with coverage verification
+        run: ./gradlew :database:test :database:koverVerify :logic:test :logic:koverVerify :init:test :init:koverVerify :booking:test :booking:koverVerify :management:test :management:koverVerify koverVerify
 
       - name: Upload test reports on failure
         if: failure()
