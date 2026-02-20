@@ -1,0 +1,7 @@
+package com.flightbooking.logic
+
+// Business logic will go here
+// separate files for logic of each page
+// this module depends on db
+// booking/management depend on logic
+// helps keep separation of functionality

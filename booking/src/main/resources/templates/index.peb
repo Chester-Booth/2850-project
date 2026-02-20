@@ -1,0 +1,5 @@
+{% extends "base.peb" %}
+{% block title %}Flight Booking{% endblock %}
+{% block content %}
+<h1>Booking System</h1>
+{% endblock %}

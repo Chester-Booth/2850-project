@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light">
+
+    {# interal references to stylesheets #}
+    <link href="/static/style.css" rel="stylesheet">
+    {% block head %}{% endblock %}
+    <title>{% block title %}Library{% endblock %}</title>
+</head>
+<body>
+<main class="container" >
+{% block content %}{% endblock %}
+</main>
+</body>
+</html>
