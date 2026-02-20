@@ -1,3 +1,4 @@
+<<<<<<< 3-add-project-scaffolding
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -49,3 +50,7 @@ actions-runner/
 
 ### Environment Variables ###
 .env
+=======
+### obsidian ###
+.obsidian/
+>>>>>>> main
