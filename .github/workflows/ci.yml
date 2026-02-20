@@ -27,14 +27,15 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run tests
-        run: ./gradlew test
+        run: ./gradlew test koverVerify
 
       - name: Upload test reports on failure
         if: failure()
         uses: actions/upload-artifact@v4
         with:
-          name: test-reports
-          path: "**/build/reports/tests/"
+          name: coverage-report
+          path: "**/build/reports/kover/"
+
 
   build:
     name: Build

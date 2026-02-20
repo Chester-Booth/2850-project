@@ -3,6 +3,7 @@ plugins {
     id("org.jlleitschuh.gradle.ktlint") version "14.0.1" apply false
     id("io.gitlab.arturbosch.detekt") version "1.23.8" apply false
     id("io.ktor.plugin") version "3.4.0" apply false
+    id("org.jetbrains.kotlinx.kover") version "0.9.7" apply false
 }
 val ktorVersion = "3.4.0"
 val exposedVersion = "1.0.0"
@@ -20,6 +21,7 @@ subprojects {
     apply(plugin = "org.jetbrains.kotlin.jvm")
     apply(plugin = "org.jlleitschuh.gradle.ktlint")
     apply(plugin = "io.gitlab.arturbosch.detekt")
+    apply(plugin = "org.jetbrains.kotlinx.kover")
 
     repositories {
         mavenCentral()
