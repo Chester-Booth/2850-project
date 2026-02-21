@@ -123,6 +123,7 @@ acknowledge it includes
 >- APIs, Show other Airlines
 >- Price Management (Dynamic Pricing?)
 >- Seat Management?
+>- Airline Name?
 ### Project Planning
 - [x] requirements gathering (what it means?, how to perform?)
 - [x] personas with clear impact on all parts of the system 
