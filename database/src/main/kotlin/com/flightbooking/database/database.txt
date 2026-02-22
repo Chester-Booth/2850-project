@@ -1,5 +1,0 @@
-package com.flightbooking.database
-
-// database table definitions will go here
-// kt file for each entity (contains entity + table definitions
-// also database and test database files to create table objects

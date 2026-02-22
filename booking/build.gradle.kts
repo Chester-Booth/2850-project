@@ -6,6 +6,7 @@ plugins {
 val ktorVersion: String by rootProject.extra
 val logbackVersion: String by rootProject.extra
 val kotestVersion: String by rootProject.extra
+val exposedVersion: String by rootProject.extra
 
 application {
     mainClass.set("com.flightbooking.booking.ApplicationKt")
@@ -19,6 +20,7 @@ dependencies {
     implementation("io.ktor:ktor-server-pebble:$ktorVersion")
     implementation("io.ktor:ktor-server-config-yaml:$ktorVersion")
     implementation("ch.qos.logback:logback-classic:$logbackVersion")
+    implementation("org.jetbrains.exposed:exposed-jdbc:$exposedVersion")
 
     testImplementation("io.ktor:ktor-server-test-host:$ktorVersion")
     testImplementation("io.kotest:kotest-runner-junit5:$kotestVersion")

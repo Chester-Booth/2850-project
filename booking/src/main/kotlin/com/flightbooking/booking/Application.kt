@@ -1,6 +1,8 @@
 package com.flightbooking.booking
 
+import com.flightbooking.database.Database
 import io.ktor.server.application.Application
+import org.jetbrains.exposed.v1.jdbc.transactions.TransactionManager
 
 /**
  * The entry point for the booking module.
@@ -19,6 +21,7 @@ fun main(args: Array<String>) {
  * @return Unit
  */
 fun Application.module() {
+    TransactionManager.defaultDatabase = Database.db
     configureTemplates()
     configureRouting()
 }
