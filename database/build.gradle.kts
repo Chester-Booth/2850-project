@@ -8,3 +8,13 @@ dependencies {
     implementation("org.jetbrains.exposed:exposed-java-time:$exposedVersion")
     implementation("org.xerial:sqlite-jdbc:$sqliteVersion")
 }
+
+kover {
+    reports {
+        verify {
+            rule {
+                minBound(70)
+            }
+        }
+    }
+}

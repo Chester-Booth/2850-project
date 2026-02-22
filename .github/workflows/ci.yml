@@ -26,15 +26,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run tests
-        run: ./gradlew test
+      - name: Run tests with coverage verification
+        run: ./gradlew :database:test :database:koverVerify :logic:test :logic:koverVerify :init:test :init:koverVerify :booking:test :booking:koverVerify :management:test :management:koverVerify koverVerify
 
       - name: Upload test reports on failure
         if: failure()
         uses: actions/upload-artifact@v4
         with:
-          name: test-reports
-          path: "**/build/reports/tests/"
+          name: coverage-report
+          path: "**/build/reports/kover/"
+
 
   build:
     name: Build
@@ -44,4 +45,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Build all modules
-        run: ./gradlew build -x test
+        run: ./gradlew build -x test -x koverVerify
