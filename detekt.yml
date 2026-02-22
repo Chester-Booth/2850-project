@@ -14,3 +14,7 @@ style:
 complexity:
   LongMethod:
     threshold: 60
+
+naming:
+  BooleanPropertyNaming:
+    active: true
