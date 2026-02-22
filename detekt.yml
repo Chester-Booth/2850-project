@@ -6,8 +6,6 @@ comments:
     active: true
   UndocumentedPublicFunction:
     active: true
-  UndocumentedPublicProperty:
-    active: true
 
 style:
   MagicNumber:
