@@ -17,3 +17,37 @@ When i book a seat, I want confirmation, so i can not stress, because i know tha
 When flight details change, i want updates, so i can change plans accordingly, because i might need to cancel/ change other bookings
 
 When i enter payment details i want confirmation they are correct, so i don't have to re-enter them, because i want to complete the form quickly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
